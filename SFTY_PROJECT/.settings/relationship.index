@@ -1,1 +1,117 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_L91KoB7hEe2x_ZGv6moQ8w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KZOnUB7AEe2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_aV_mAB7AEe2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_js7gMB7AEe2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qyplsB7AEe2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KZOnUB7AEe2RmvX7fTQlsA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_aV_mAB7AEe2RmvX7fTQlsA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_js7gMB7AEe2RmvX7fTQlsA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_qyplsB7AEe2RmvX7fTQlsA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - AADHAAR_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - DEPT_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - NAME_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - PHONE_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W1b3gB5LEe2Wo8OyvjpZ5w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - SFTY_EMP_INFO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rNXTUB7iEe2x_ZGv6moQ8w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rOnsQB5NEe2tffkCQzbKYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - AADHAAR_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - DEPT_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - NAME_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - PHONE_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_t_Ae4B6-Ee2RmvX7fTQlsA - SFTY_EMP_INFO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
